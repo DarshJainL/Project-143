@@ -1,4 +1,3 @@
-
 /*created by prashant shukla */
 
 var paddle2 =10,paddle1=10;

@@ -2,3 +2,21 @@
 {
     width: 100%;
 }
+
+.footer
+{
+    position:sticky;
+    background-color: cyan;
+    font: bold;
+}
+
+#fart
+{
+    font: bold;
+    text-align: left;
+}
+
+#canvas
+{
+    text-align: center;
+}
